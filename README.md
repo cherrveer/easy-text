@@ -39,7 +39,10 @@ https://www.figma.com/file/p9YTG2X5x22UNVpuqrenmi/easyText?type=design&node-id=0
 ## ERD диаграмма
 ![](readme_assets/database-entity-relation-diagram.jpg)
 
-## Запуск
+## API swagger
+![](readme_assets/screencapture-editor-next-swagger-io-2024-05-22-11_17_43.png)
+
+# Запуск
 ```bash
 git clone https://github.com/cherrveer/easy-text.git
 cd easyText
