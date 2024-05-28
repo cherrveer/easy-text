@@ -23,11 +23,8 @@ https://www.figma.com/file/p9YTG2X5x22UNVpuqrenmi/easyText?type=design&node-id=0
 ## Диаграмма последовательностей
 ![](readme_assets/последовательностей.png)
 
-## DFD (Процесс регистрации или входа)
-![](readme_assets/DFD(Регистрация_вход).png)
-
 ## DFD (Процесс работы функционала)
-![](readme_assets/DFD(Функционал).png)
+![](readme_assets/erd.png)
 
 ## Диаграмма состояний (Процесс работы веь-приложения)
 ![](readme_assets/Use_case(Веб-приложение).png)
