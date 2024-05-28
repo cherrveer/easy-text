@@ -32,11 +32,8 @@ https://www.figma.com/file/p9YTG2X5x22UNVpuqrenmi/easyText?type=design&node-id=0
 ## DFD (Процесс работы функционала)
 ![](readme_assets/DFD(Функционал).png)
 
-## Use case (Процесс работы веь-приложения)
+## Диаграмма состояний (Процесс работы веь-приложения)
 ![](readme_assets/Use_case(Веб-приложение).png)
-
-## Use case (Работа back end)
-![](readme_assets/Use_case(Сервер).png)
 
 ## Алгаритм работы нейросети 
 ![](readme_assets/Алгаритм_работы_нейросети.png)
