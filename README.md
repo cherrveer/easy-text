@@ -38,8 +38,8 @@ https://www.figma.com/file/p9YTG2X5x22UNVpuqrenmi/easyText?type=design&node-id=0
 ## Алгаритм работы нейросети 
 ![](readme_assets/Алгаритм_работы_нейросети.png)
 
-## Диаграмма состояний
-![](readme_assets/Диаграмма_состояний.png)
+## Use case
+![](readme_assets/Состояния.png)
 
 ## ERD диаграмма
 ![](readme_assets/database-entity-relation-diagram.jpg)
