@@ -5,7 +5,12 @@
 Ерохин Андрей, Тимошенко Василий, Аванесов Артем, Артищев Роман, Аюпов Арсен, Артюхович Иван
 
 # Презентация проекта:
-![](readme_assets/easyText.pdf)
+![](readme_assets/1.png)
+![](readme_assets/2.png)
+![](readme_assets/3.png)
+![](readme_assets/4.png)
+![](readme_assets/5.png)
+![](readme_assets/6.png)
 
 # Документация к проекту:
 
