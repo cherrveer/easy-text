@@ -4,7 +4,10 @@
 # Учасники проекта: 
 Ерохин Андрей, Тимошенко Василий, Аванесов Артем, Артищев Роман, Аюпов Арсен, Артюхович Иван
 
-# Документация к проекту
+# Презентация проекта:
+![](readme_assets/easyText.pdf)
+
+# Документация к проекту:
 
 ## Макет сайта в FIGMA
 https://www.figma.com/file/p9YTG2X5x22UNVpuqrenmi/easyText?type=design&node-id=0%3A1&mode=design&t=5iYq4lMzGLEpwFoJ-1
