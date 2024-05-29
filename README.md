@@ -12,6 +12,9 @@
 ![](readme_assets/5.png)
 ![](readme_assets/6.png)
 
+# Инструкция для пользователя 
+Видео по ссылке: https://disk.yandex.ru/d/8oWdGRe6NmNNyA
+
 # Документация к проекту:
 
 ## Макет сайта в FIGMA
